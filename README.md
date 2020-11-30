@@ -11,8 +11,8 @@
 
 *Structure
 
-|--- README.md
-|--- requirements.txt
+|--- README.md /
+|--- requirements.txt/
 |--- models.py
 |--- config.py
 |--- application.py
